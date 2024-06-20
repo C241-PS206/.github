@@ -12,14 +12,16 @@ Powered with Google's cloud services to serve the backend of our app.
 
 
 ## 🐪🔥 Our team members 🐪🔥
-🟢 Mobile Development team 
+#### 🟢 Mobile Development team 
 - [Anisya H.](https://github.com/AnisyaHamidah)
 - [Dina A.](https://github.com/dinaaalyh)
-🟠 Machine Learning team
+
+#### 🟠 Machine Learning team
 - [Putri A.](https://github.com/putriauliaarif18)
 - [Putri T.](https://github.com/Putannia)
 - [Zharfan D.](https://github.com/trenchb0y)
-🔵 Cloud Computing team
+
+#### 🔵 Cloud Computing team
 - [Candy R.](https://github.com/Granbe1l)
 - [Fadel A.](https://github.com/izal14551)
 
